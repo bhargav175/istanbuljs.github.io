@@ -1,5 +1,7 @@
 #[istanbul.js.org](http://istanbul.js.org)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/istanbuljs/istanbuljs.github.io.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/istanbuljs/istanbuljs.github.io.png)](https://travis-ci.org/istanbuljs/istanbuljs.github.io)
 
 www for [Istanbul](https://github.com/istanbuljs), your batteries-included test-coverage
